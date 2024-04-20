@@ -1,7 +1,9 @@
+An older project of mine.
 This C++ program serves as a basic student database management system, where data is stored in a simple text file (Notepad). 
 Language: Romanian (my native language)
 
 The program features three main menus:
+
 Main Menu:
 -Display Students
 -Select Student
@@ -12,7 +14,7 @@ Student Menu:
 -Display Grades
 -Modify Grades
 -Delete Student
--Exit
+-Back to Main Menu
 
 Grade Modification Menu:
 -Add Grade
